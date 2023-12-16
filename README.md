@@ -1,7 +1,11 @@
-### Hi there 👋
+👋 Hi, I’m Abdulrhman Ahmed a computer engineering graduate.  
+👀 I’m interested in technology and anything related, data engineering.   
+🌱 I’m currently learning data engineering and data warehouse desing and modeling.  
+📫 You can reach me via [LinkedIn]([url](https://www.linkedin.com/in/abdulrhmannassef/))  
+
 
 <!--
-**abdulrhmannassef/abdulrhmannassef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💞️ I’m looking to collaborate on data engineering, BI or data science projects  
 
 Here are some ideas to get you started:
 

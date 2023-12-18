@@ -1,5 +1,5 @@
 👋 Hi, I’m Abdulrhman Ahmed a computer engineering graduate.  
-👀 I’m interested in technology and anything related, data engineering.   
+👀 I’m interested in technology and anything related, data analysiss.   
 🌱 I’m currently learning data engineering and data warehouse desing and modeling.  
 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/abdulrhmannassef/)  
 
